@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Supernova"
+date: 2019-01-21
 ---
 
 ### Supernova happenings
